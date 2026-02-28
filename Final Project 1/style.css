@@ -1,3 +1,9 @@
 a{
     text-decoration: none;
 }
+#penguin{
+    border-radius: 50px;
+}
+b,h3{
+    color: aqua;
+}
